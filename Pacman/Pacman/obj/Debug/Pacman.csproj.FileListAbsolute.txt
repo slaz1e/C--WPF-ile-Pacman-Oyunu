@@ -1,0 +1,15 @@
+C:\Users\necde\source\repos\Pacman\Pacman\bin\Debug\Pacman.exe.config
+C:\Users\necde\source\repos\Pacman\Pacman\bin\Debug\Pacman.exe
+C:\Users\necde\source\repos\Pacman\Pacman\bin\Debug\Pacman.pdb
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.csprojAssemblyReference.cache
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\MainWindow.g.cs
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\App.g.cs
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman_MarkupCompile.cache
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman_MarkupCompile.lref
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\MainWindow.baml
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.g.resources
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.Properties.Resources.resources
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.csproj.GenerateResource.cache
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.csproj.CoreCompileInputs.cache
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.exe
+C:\Users\necde\source\repos\Pacman\Pacman\obj\Debug\Pacman.pdb
